@@ -319,7 +319,7 @@ int main(int argc, char* argv[])
 
     int count_less = std::count_if(v1.begin(), v1.end(), less_than(x)); //calls on count_if with (v1.begin, v1.end, and less_than(x(14)))
 
-    //count_if returns the # of elements in a range for which less_than(14) fybctuib us trye
+    //count_if returns the # of elements in a range for which less_than(14) function is true
 
     
 
